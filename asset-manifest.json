@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vinay7/static/css/main.48b678b7.css",
+    "main.js": "/Vinay7/static/js/main.d33eba2c.js",
+    "static/js/592.b95b3ab8.chunk.js": "/Vinay7/static/js/592.b95b3ab8.chunk.js",
+    "static/media/images.jpg": "/Vinay7/static/media/images.e9dad7a4b3610471faa9.jpg",
+    "index.html": "/Vinay7/index.html",
+    "main.48b678b7.css.map": "/Vinay7/static/css/main.48b678b7.css.map",
+    "main.d33eba2c.js.map": "/Vinay7/static/js/main.d33eba2c.js.map",
+    "592.b95b3ab8.chunk.js.map": "/Vinay7/static/js/592.b95b3ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b678b7.css",
+    "static/js/main.d33eba2c.js"
+  ]
+}
